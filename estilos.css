@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { background:#9FC}
+h1 {background-color:#F00; text-align:center; color:#FFF}
+p { color:#009; font-family:Arial, Helvetica, sans-serif; font-size:24px}
+imagenes/CR7_8.gif { alignment-adjust:central; text-align:center}
+p { text-align:center}
+table { margin:auto}
+table { margin:auto}
+h2 { text-align:center}
+h3 { text-align:center}
+h4 {text-align:center}
+p {text-align:center}
+h6 {text-align:center}
+figure {text-align:center; margin:auto}
+iframe {text-align:center; margin:auto}
